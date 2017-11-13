@@ -1,6 +1,6 @@
-#HOME
-##Contenios
-![workdesign] (imagenhome.jpg)
+# HOME
+## Contenios
+![workdesign](imagenhome.jpg)
 1. Contactos
 2. About me
 3. Mis proyectos
